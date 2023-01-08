@@ -1,10 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=KH-XXXVillager&show_icons=true&count_private=true&theme=dracula"/></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KH-XXXVillager&layout=compact&langs_count=10&theme=dracula&card_width=445"/></a><br/>
-
-
-
-
 ### 👋 Hello Motherfu**er(bushi
 
 * There is a nc student ~~12 岁，是学生（便乘）~~
@@ -20,4 +13,9 @@
 
 
 [![Moe Counter!](https://count.getloli.com/get/@XXXVillager?theme=rule34)](https://count.getloli.com/)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=KH-XXXVillager&show_icons=true&count_private=true&theme=dracula"/></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KH-XXXVillager&layout=compact&langs_count=10&theme=dracula&card_width=445"/></a><br/>
 
