@@ -5,12 +5,13 @@
 
 
 
-### Hello Motherfu**er(bushi 👋
+### 👋 Hello Motherfu**er(bushi
 
 * There is a nc student ~~12 岁，是学生（便乘）~~
 * You even seen some repositories there,because they are all pieces of sht( ~~GitHub 环 境 破 坏 者~~
 * 妹说就是0寄术力
 
+### 💻 Working environment
 
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11/)
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10/)
