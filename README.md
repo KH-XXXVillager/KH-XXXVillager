@@ -19,4 +19,5 @@
 [![HarmonyOS 2](https://img.shields.io/badge/HarmonyOS%202-9f9f9f?style=flat-square&logo=huawei&logoColor=c3172d)](https://www.harmonyos.com/)
 
 
+[![Moe Counter!](https://count.getloli.com/get/@XXXVillager?theme=rule34)](https://count.getloli.com/)
 
