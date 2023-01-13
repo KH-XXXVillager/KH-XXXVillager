@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KH-XXXVillager&layout=compact&langs_count=10&theme=dracula&card_width=445"/></a><br/>
 ### 👋 Hello Motherfu**er(bushi
 
-* There is a nc student ~~12 岁，是学生（便乘）~~
+* Here is a nc student ~~12 岁，是学生（便乘）~~
 * You even seen some repositories there,because they are all pieces of sht( ~~GitHub 环 境 破 坏 者~~
 * 妹说就是0寄术力
 
