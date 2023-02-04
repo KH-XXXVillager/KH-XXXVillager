@@ -4,7 +4,7 @@
 ### 👋 Hello Motherfu**er(bushi
 
 * Here is a nc student ~~12 岁，是学生（便乘）~~
-* You even seen some repositories here,because they are all pieces of sht( ~~GitHub 环 境 破 坏 者~~
+* You even seen some repositories here,because they are all pieces of sht( ~~GitHub : 6~~
 * 妹说就是0寄术力
 
 ### 💻 Working environment
