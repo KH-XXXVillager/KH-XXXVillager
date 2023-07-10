@@ -9,10 +9,10 @@
 
 ### 💻 Working environment
 
-[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11/)
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10/)<br/>
-[![Android 10](https://img.shields.io/badge/Android%2010-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-10/)
-[![HarmonyOS 3](https://img.shields.io/badge/HarmonyOS%202-9f9f9f?style=flat-square&logo=huawei&logoColor=c3172d)](https://www.harmonyos.com/)<br/>
+
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11/) [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10/) [![Android 10(AOSP 10)](https://img.shields.io/badge/Android%2010-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-10/) [![HarmonyOS 3](https://img.shields.io/badge/HarmonyOS%203-317af7?style=flat-square&logo=harmonyos&logoColor=f1f3f5)](https://www.harmonyos.com/)
+<br/>
+
 
 
 [![Moe Counter!](https://count.getloli.com/get/@XXXVillager?theme=rule34)](https://count.getloli.com/)
